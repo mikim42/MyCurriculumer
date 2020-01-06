@@ -16,6 +16,6 @@ GUI will give easy interations and understanding of prerequisites.
 One application will help students check their graduation requirements, how much they have fulfilled, and future plans. So, students won't need to jump around between applications to check those information.
 
 ## Author
-**Mingyun Kim** - [Github](https://www.github.com/mikim42)
-**Daniel Tran** - [Github](https://www.github.com/danieltran67)
-**Soyeon Wang** - [Github](https://www.github.com/SoyeonW)
+**Mingyun Kim** - [Github](https://www.github.com/mikim42)\
+**Daniel Tran** - [Github](https://www.github.com/danieltran67)\
+**Soyeon Wang** - [Github](https://www.github.com/SoyeonW)\
