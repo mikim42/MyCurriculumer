@@ -19,3 +19,4 @@ One application will help students check their graduation requirements, how much
 **Mingyun Kim** - [Github](https://www.github.com/mikim42)\
 **Daniel Tran** - [Github](https://www.github.com/danieltran67)\
 **Soyeon Wang** - [Github](https://www.github.com/SoyeonW)\
+
