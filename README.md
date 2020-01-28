@@ -18,7 +18,7 @@ One application will help students check their graduation requirements, how much
 ## Author
 **Mingyun Kim** - [GitHub](https://www.github.com/mikim42) [LinkedIn](https://www.linkedin.com/in/mingyun-kim/)\
 **Daniel Tran** - [GitHub](https://www.github.com/danieltran67) [LinkedIn](https://www.linkedin.com/in/daniel-tran-a95442156/)\
-**Soyeon Wang** - [GitHub](https://www.github.com/SoyeonW) [LinkedIn] (https://www.linkedin.com/in/soyeon-wang/)
+**Soyeon Wang** - [GitHub](https://www.github.com/SoyeonW) [LinkedIn](https://www.linkedin.com/in/soyeon-wang/)
 
 ## Assist
 **Jinhan Han** - [LinkedIn](https://www.linkedin.com/in/jinhan-jeremy-han-914871b8)\
